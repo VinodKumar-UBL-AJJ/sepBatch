@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="testSuite" verbose="2">
+	
+	<test name="testLearning">
+		
+		<parameter name="username" value="Admin"></parameter>
+		<parameter name="password" value="admin123"></parameter>
+		
+		<classes>
+			
+			
+			<class name="testNG.Parameterization"></class>
+			
+			
+			
+		</classes>
+		
+		
+	</test>
+	
+
+</suite>
